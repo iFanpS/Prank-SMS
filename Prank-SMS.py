@@ -14,12 +14,12 @@ def ulang():
          print ("exit")
          sys.exit()
 bersih()
-lambang = """
+perin("""
 ================================
 Tools Spam sms by iFanpS
 Usage: (EX: 081*********)
 ================================
-"""
+""")
 print (lambang)
 no = input("Put phone Number: ")
 jm = int(input("Count for spam: "))
