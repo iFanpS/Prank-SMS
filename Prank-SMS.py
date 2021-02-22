@@ -14,7 +14,7 @@ def ulang():
          print ("exit")
          sys.exit()
 bersih()
-perin("""
+print("""
 ================================
 Tools Spam sms by iFanpS
 Usage: (EX: 081*********)
