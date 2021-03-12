@@ -9,7 +9,7 @@ def bersih():
 def ulang():
     pengulangan = input("Try again? (y/n):")
     if pengulangan == "y":
-       subprocess.call("python sms.py",shell=True)
+       subprocess.call("python Prank-SMS.py",shell=True)
     elif pengulangan == "n":
          print ("exit")
          sys.exit()
